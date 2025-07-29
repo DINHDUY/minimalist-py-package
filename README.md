@@ -28,11 +28,7 @@ pip install uv
 ### 2. Create Your Package
 
 ```bash
-# Use this template locally
-cookiecutter /path/to/this/template
-
-# Or from GitHub (when published)
-cookiecutter gh:yourusername/python-package-cookiecutter
+cookiecutter https://github.com/DINHDUY/minimalist-py-package.git
 ```
 
 ### 3. Configure Your Package
